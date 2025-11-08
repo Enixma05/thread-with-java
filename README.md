@@ -22,14 +22,13 @@ dari database MySQL secara paralel.
 
 thread-with-java/
 ├── src/
-│ ├── AINode.java
-│ ├── DBUtil.java
-│ ├── AINodeDAO.java
-│ ├── AINodeThread.java
-│ └── Main.java
+│   ├── AINode.java
+│   ├── DBUtil.java
+│   ├── AINodeDAO.java
+│   └── Main.java
+├── AINodeThread.java
 └── lib/
-└── mysql-connector-j-8.x.x.jar
-
+    └── mysql-connector-j-8.x.x.jar
 ---
 
 ## 💾 Database Setup
