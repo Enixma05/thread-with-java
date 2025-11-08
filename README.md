@@ -35,7 +35,6 @@ thread-with-java/
 ├── AINodeThread.java
 
 └── lib/
-
     └── mysql-connector-j-8.x.x.jar
 ---
 
