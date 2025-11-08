@@ -18,26 +18,6 @@ dari database MySQL secara paralel.
 
 ---
 
-## 🗂️ Struktur Folder
-
-thread-with-java/
-
-├── src/
-
-│   ├── AINode.java
-
-│   ├── DBUtil.java
-
-│   ├── AINodeDAO.java
-
-│   └── Main.java
-
-├── AINodeThread.java
-
-└── lib/
-    └── mysql-connector-j-8.x.x.jar
----
-
 ## 💾 Database Setup
 
 Gunakan MySQL (misalnya lewat XAMPP), lalu jalankan perintah SQL berikut:
